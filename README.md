@@ -6,13 +6,9 @@ This repository contains documentation for Spring Boot.
 ## Repository Details
 
 - **Owner:** [Sughosh28](https://github.com/Sughosh28)
-- 
 - **Repository URL:** [spring-boot-doc](https://github.com/Sughosh28/spring-boot-doc)
-- 
 - **Default Branch:** master
-
 - **License:** Not specified
-- 
 - **Visibility:** Public
 
 ## Recent Activity
